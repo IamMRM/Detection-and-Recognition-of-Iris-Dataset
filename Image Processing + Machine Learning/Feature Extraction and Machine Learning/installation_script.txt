@@ -1,0 +1,2 @@
+conda install -c conda-forge scikit-learn opencv -y
+conda install scikit-image pandas tqdm matplotlib -y
